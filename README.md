@@ -8,6 +8,7 @@ _2015_
 ## Courses
 * [ ] [DevOps - Oracle Free Course](https://blogs.oracle.com/database/free-oracle-massive-open-online-course-mooc-on-devops)
 * [ ] [Deep Learning - Coursera Specialisation](https://www.coursera.org/specializations/deep-learning)
+* [ ] [Machine Learning - Coursera Andrew Ng](https://www.coursera.org/learn/machine-learning)
 * [ ] [Accelerated Mobile Pages - Google CodeLabs](https://codelabs.developers.google.com/codelabs/accelerated-mobile-pages-foundations)
 * [ ] [Payments](https://codelabs.developers.google.com/codelabs/payment-request-api)
 
