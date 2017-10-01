@@ -6,7 +6,8 @@ _2015_
 * [ ] [ ]()
 
 ## Courses
-* [ ] [DevOps](https://blogs.oracle.com/database/free-oracle-massive-open-online-course-mooc-on-devops)
+* [ ] [DevOps - Oracle Free Course](https://blogs.oracle.com/database/free-oracle-massive-open-online-course-mooc-on-devops)
+* [ ] [Deep Learning - Coursera Specialisation](https://www.coursera.org/specializations/deep-learning)
 
 ## Competition
 _Data Science_
