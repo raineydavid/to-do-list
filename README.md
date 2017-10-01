@@ -1,7 +1,7 @@
 # To do list
 
 ## Courses
-* [ ] [DevOps]https://blogs.oracle.com/database/free-oracle-massive-open-online-course-mooc-on-devops
+* [ ] [DevOps](https://blogs.oracle.com/database/free-oracle-massive-open-online-course-mooc-on-devops)
 
 ## Competition
 _Data Science_
