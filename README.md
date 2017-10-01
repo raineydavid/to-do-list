@@ -11,6 +11,7 @@ _2015_
 * [ ] [Machine Learning - Coursera Andrew Ng](https://www.coursera.org/learn/machine-learning)
 * [ ] [Accelerated Mobile Pages - Google CodeLabs](https://codelabs.developers.google.com/codelabs/accelerated-mobile-pages-foundations)
 * [ ] [Payments](https://codelabs.developers.google.com/codelabs/payment-request-api)
+* [X] [Blockchain Essentials - IBM](https://developer.ibm.com/courses/all/blockchain-essentials/)
 
 ## Competition
 _Data Science_
