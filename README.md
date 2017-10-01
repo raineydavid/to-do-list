@@ -14,6 +14,7 @@ _2015_
 * [X] [Blockchain Essentials - IBM](https://developer.ibm.com/courses/all/blockchain-essentials/)
 * [ ] [Service Workers and Offline Caching](https://codelabs.developers.google.com/codelabs/workbox-lab)
 * [ ] [Java Introduction - Hackerrank](https://www.hackerrank.com/domains/java/java-introduction)
+* [ ] [Artificial Intelligence Introduction - Hackerrank](https://www.hackerrank.com/domains/ai/ai-introduction)
 
 ## Competition
 _Data Science_
