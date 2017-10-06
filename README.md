@@ -10,6 +10,8 @@
 * [ ] [Service Workers and Offline Caching](https://codelabs.developers.google.com/codelabs/workbox-lab)
 * [ ] [Java Introduction - Hackerrank](https://www.hackerrank.com/domains/java/java-introduction)
 * [ ] [Artificial Intelligence Introduction - Hackerrank](https://www.hackerrank.com/domains/ai/ai-introduction)
+* [ ] [Differential Equations and Linear Algebra - Mathworks](https://uk.mathworks.com/videos/series/differential-equations-and-linear-algebra-117657.html?s_eid=PSM_ma)
+* [ ] [Big Data 1-1 - IBM Cognitive AI](https://courses.cognitiveclass.ai/courses)
 
 ## Competition
 _Data Science_
