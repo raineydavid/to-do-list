@@ -20,4 +20,14 @@ _Data Science_
 
 _Data_Sources
 * [ ] [Academic Torrent](http://academictorrents.com/browse.php?cat=6)
+* [ ] [Smart Meter Energy Consumption London 2011-2014](https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households/resource/04feba67-f1a3-4563-98d0-f3071e3d56d1)
+* [ ] [Center for Environmental Data Analytics - CEDA](http://www.ceda.ac.uk/)<br>
+Data and information services for environmental science
+* [ ] [Climate Change Initiative Open Data Portal](http://cci.esa.int/)
+* [ ] [European Space Agency Sentinel-1](https://sentinel.esa.int/web/sentinel/toolboxes/sentinel-1)<br>
+A collection of processing tools, data product readers and writers and a display and analysis application to support the large archive of data from ESA SAR -specifically the sentinel project see scihub below
+* [ ] [ESA Sentinel-1](https://scihub.copernicus.eu/)
+* [ ] [Institute for Environmental Analytics MELODIES Research Project](http://www.the-iea.org/projects/melodies-research-project/)<br>
+MELODIES – (Maximizing the Exploitation of Linked Open Data in Enterprise and Science)
+* [ ] [MELODIES Shared Platform](https://www.melodiesproject.eu/node/7)
 
