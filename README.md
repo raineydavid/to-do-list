@@ -1,3 +1,9 @@
+---
+technology: artificial-learning, machine-learning, deep-learning, AMP, blockchain, service-workers, payments, devops,
+how: google-codelabs, coursera, oracle, mathworks
+author: rainede
+---
+
 # To do list
 
 ## Courses
