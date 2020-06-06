@@ -6,6 +6,9 @@ author: raineydavid
 
 # To do list
 
+## Certifications
+* [ ] AWS 
+
 ## Courses
 * [ ] [DevOps - Oracle Free Course](https://blogs.oracle.com/database/free-oracle-massive-open-online-course-mooc-on-devops)
 * [ ] [Deep Learning - Coursera Specialisation](https://www.coursera.org/specializations/deep-learning)
@@ -23,6 +26,19 @@ author: raineydavid
 _Data Science_
 * [ ] [Bag of Words](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words)
 * [ ] [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data)
+
+Pandas for manipulating data sets
+TensorFlow to build and configure models
+Algebra: 
+Variables, coefficients and functions
+Linear Equations
+Logarithms
+Sigmoid Function
+Linear Algebra:
+Tensor and tensor rank, matrix multiplication
+Tanh (activation function)
+Libraries:
+Matplotlib, Seaborn, pandas, NumPy, scikit-learn
 
 _Data_Sources
 * [ ] [Academic Torrent](http://academictorrents.com/browse.php?cat=6)
@@ -51,10 +67,14 @@ Biotechnology and genome data from the NCBI	Multiple data sets covering genes, g
 Other statistical and scientific data
 Data source	About the data	About the files
 New York City taxi data <br>"Taxi trip records include fields capturing pick-up and dropoff dates/times, pick-up and dropoff locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts."	Data sets are in CSV files by month.
+
 [Microsoft Research data sets](https://msropendata.com.) <br> "Data Science for Research"	Multiple data sets covering human-computer interaction, audio/video, data mining/information retrieval, geospatial/location, natural language processing, and robotics/computer vision.	Data sets are in various formats, zipped for download.
+
 Public genome data <br>	"A diverse data set of whole human genomes are freely available for public use to enhance any genomic study..." The provider, Complete Genomics, is a private for-profit corporation.	Data sets, after extraction, are in UNIX text format. Analysis tools are also available.
+
 Open Science Data Cloud data	"The Open Science Data Cloud provides the scientific community with resources for storing, sharing, and analyzing terabyte and petabyte-scale scientific datasets."	Data sets are in various formats.
 Global climate data - WorldClim	"WorldClim is a set of global climate layers (gridded climate data) with a spatial resolution of about 1 km2. These data can be used for mapping and spatial modeling."	These files contain geospatial data. For more info, see Data format.
+
 Data about human society - The GDELT Project	"The GDELT Project is the largest, most comprehensive, and highest resolution open database of human society ever created."	The raw data files are in CSV format.
 Advertising click prediction data for machine learning from Criteo	"The largest ever publicly released ML dataset." For more info, see Criteo's 1 TB Click Prediction Dataset.	
 ClueWeb09 text mining data set from The Lemur Project	"The ClueWeb09 dataset was created to support research on information retrieval and related human language technologies. It consists of about 1 billion web pages in 10 languages that were collected in January and February 2009."	See Dataset Information.
